@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tausif</h1>
+# <p align="center">️ **Hello!!<img src="wave.gif"> alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
 <h3 align="center">I do open Source :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tausif39&label=Profile%20views&color=0e75b6&style=flat" alt="tausif39" /> </p>
+<p align="bottom"> <img src="https://komarev.com/ghpvc/?username=tausif39&label=Profile%20views&color=0e75b6&style=flat" alt="tausif39" /> </p>
 
 - 📫 How to reach me **tausifulhaque539@gmail.com**
 
